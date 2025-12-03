@@ -101,6 +101,8 @@ A modular system designed to scale into a full AI Worker OS.
 - Updated Workspace layout  
 - Work-in-progress: Python chart generation pipeline
 
+![progress_dec3](./design/ui/20251203.png)
+
 ### **Dec 2, 2025**
 - Fixed multiple timeout issues  
 - Improved file system watcher stability  
@@ -111,8 +113,6 @@ A modular system designed to scale into a full AI Worker OS.
 - Enabled basic GUI operations (open apps, typing, clicking)
 
 More logs will be added daily.
-
-![progress_dec3](./design/ui/20251203.png)
 
 ---
 
