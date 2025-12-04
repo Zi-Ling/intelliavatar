@@ -33,6 +33,21 @@ We are building a full-stack desktop agent capable of:
 This is early, but the foundation is improving rapidly.
 
 ---
+## 🎬 Demo (Early Prototype)
+
+IntelliAvatar can already perform fully autonomous desktop tasks.
+Below is a real example — no macros, no scripts, no shortcuts.
+
+### File Workflow Demo 
+
+-Generate a short poem
+
+-Save it into a Word document (poem_demo.docx)
+
+-Automatically open the document after creation
+
+![demo_gif](./demo/demo.gif)
+
 
 ## 🎨 UI Concepts (Early Explorations)
 
