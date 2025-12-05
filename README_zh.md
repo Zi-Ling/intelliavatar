@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="./README.md">🇺🇸 English</a> | 
+  <a href="./README_ZH.md">🇨🇳 中文</a>
+</p>
+
+<h1 align="center">IntelliAvatar</h1>
+<p align="center">
+  AI Worker OS —— 从聊天到真正的桌面自主操作
+</p>
+
+
 # IntelliAvatar  
 ### AI Worker OS —— 从聊天到真正的桌面自主操作
 
